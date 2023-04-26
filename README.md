@@ -1,6 +1,6 @@
 # Quiz App 
 Aplicativo de perguntas e respostas <br /> 
-Treinamento feito atravéz do canal no YouTube Polimorfismo.<br /> 
+Treinamento feito através do canal no YouTube Polimorfismo.<br /> 
 <br />
 Tópicos:<br />
 Objetos e classes em Flutter.<br />
